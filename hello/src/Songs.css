@@ -1,0 +1,16 @@
+.Songs ul {
+  list-style:none;
+}
+
+
+.Songs ul li img {
+
+  max-width: 100px;
+  height: auto;
+}
+
+.Songs .title {
+  font-size: 22px;
+  font-style: italic;
+
+}
